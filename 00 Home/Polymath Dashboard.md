@@ -16,6 +16,7 @@ tags: [history, polymath]
 - [[Strategy and Statecraft]] — power, organizations, logistics, information, legitimacy
 - [[Science, Technology, and Industry]] — discovery, invention, scaling, and industrial systems
 - [[Studying Greats Without Cargo Culting]] — the method
+- [[Napoleon and Musk - Operating System to Copy]] — practical daily/weekly execution system distilled from the two cases
 - [[Napoleon and Elon Musk - Mechanism Comparison]] — test the transcript's analogy instead of accepting it
 
 ## People to study next
