@@ -1,0 +1,3 @@
+High level structure: Encoder transforms raw input into embedding, and noise is sampled to turn that embedding through decoder into output to match geometry of the latent space modelled.
+
+The goal is to extract the latent probability distribution p(x) from data x, so you approximate that with paramters theta to form ur own distribution. The entire learning part is adjusting theta to fit the latent distribution better.

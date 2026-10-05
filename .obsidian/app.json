@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "viz",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 Sessions",
+  "userIgnoreFilters": [
+    "AGENTS.md",
+    "(^|/)\\..*"
+  ]
+}
