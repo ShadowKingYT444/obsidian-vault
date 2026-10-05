@@ -9,12 +9,14 @@ tags: [history, polymath]
 
 ## Start here
 
+- [[Greats Study Path]] — ordered curriculum across strategy, statecraft, science, computation, and industry
 - [[History Atlas]] — chronological and thematic entry point
 - [[People Atlas]] — biographies as decision case files
 - [[Events Atlas]] — transformations, wars, crises, and institutional changes
 - [[Strategy and Statecraft]] — power, organizations, logistics, information, legitimacy
 - [[Science, Technology, and Industry]] — discovery, invention, scaling, and industrial systems
 - [[Studying Greats Without Cargo Culting]] — the method
+- [[Napoleon and Elon Musk - Mechanism Comparison]] — test the transcript's analogy instead of accepting it
 
 ## People to study next
 
