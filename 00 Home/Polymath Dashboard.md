@@ -7,16 +7,21 @@ tags: [history, polymath]
 
 > The target is not to know many names. The target is to build models that transfer across war, politics, science, engineering, and business.
 
-## Start here
+## Do this today
 
-- [[Greats Study Path]] — ordered curriculum across strategy, statecraft, science, computation, and industry
+- [[Today - Polymath]] — automatically shows the dated assignment for today
+- [[12 Week Polymath Curriculum]] — full October 4 to December 27 sequence
+- [[Napoleon and Musk - Operating System to Copy]] — the execution system to apply while studying
+
+## Reference maps
+
+- [[Greats Study Path]] — concept-oriented route across strategy, statecraft, science, computation, and industry
 - [[History Atlas]] — chronological and thematic entry point
 - [[People Atlas]] — biographies as decision case files
 - [[Events Atlas]] — transformations, wars, crises, and institutional changes
 - [[Strategy and Statecraft]] — power, organizations, logistics, information, legitimacy
 - [[Science, Technology, and Industry]] — discovery, invention, scaling, and industrial systems
 - [[Studying Greats Without Cargo Culting]] — the method
-- [[Napoleon and Musk - Operating System to Copy]] — practical daily/weekly execution system distilled from the two cases
 - [[Napoleon and Elon Musk - Mechanism Comparison]] — test the transcript's analogy instead of accepting it
 
 ## People to study next
@@ -47,14 +52,6 @@ FROM "08 Patterns"
 WHERE type = "historical-pattern"
 SORT file.name ASC
 ```
-
-## A high-value 30-minute block
-
-1. Read one person note for 8 minutes.
-2. Read one linked event for 8 minutes.
-3. Read one linked pattern for 6 minutes.
-4. Close the notes and reconstruct the causal chain from memory for 4 minutes.
-5. Answer one transfer question in a different domain for 4 minutes.
 
 ## Standard of mastery
 
