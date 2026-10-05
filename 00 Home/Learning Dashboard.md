@@ -30,3 +30,12 @@ WHERE type = "learning-session"
 SORT date DESC
 LIMIT 8
 ```
+
+## Polymath atlas
+
+- [[Polymath Dashboard]]
+- [[History Atlas]]
+- [[People Atlas]]
+- [[Events Atlas]]
+- [[Strategy and Statecraft]]
+- [[Science, Technology, and Industry]]
