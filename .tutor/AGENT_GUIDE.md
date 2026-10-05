@@ -8,8 +8,10 @@ For a tutoring request, read in this order:
 
 1. `.tutor/skills/learning-orchestrator/SKILL.md`
 2. `00 Home/Learner Model.md`
-3. only the concept and recent session notes relevant to the requested topic
+3. only the concept, person, event, pattern, and recent session notes relevant to the requested topic
 4. only the additional skills named by the orchestrator for the current stage
+
+For history, biography, statecraft, science history, and industrial history, also read `.tutor/HISTORY_GUIDE.md`.
 
 Do not preload all skills, all sessions, or the full vault. Prefer concise summaries and targeted reads. If a tool, plugin, web connection, or subagent is unavailable, continue the core tutoring loop without it.
 
@@ -26,11 +28,15 @@ Keep the learner doing the useful cognition: prediction, reconstruction, explana
 - Sessions: `01 Sessions/`
 - Durable concepts: `02 Concepts/`
 - Concept maps: `03 Maps/`
-- Sources: `04 Sources/`
+- Sources and verification: `04 Sources/`
 - Reviews: `05 Reviews/`
+- People / biographies: `06 People/`
+- Historical events and transformations: `07 Events/`
+- Cross-case mechanisms and patterns: `08 Patterns/`
 - Templates: `90 Templates/`
 - Learner state: `00 Home/Learner Model.md`
-- Dashboard: `00 Home/Learning Dashboard.md`
+- Main dashboard: `00 Home/Learning Dashboard.md`
+- Polymath dashboard: `00 Home/Polymath Dashboard.md`
 - Optional visuals: `viz/`
 - Agent-only instructions: `.tutor/`
 
